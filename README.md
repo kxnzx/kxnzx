@@ -1,4 +1,4 @@
-Hello World! I am Kenza, a Lifelong Learner & Zen Warrior. I share my journey in self-taught front-end web development. I am currently practicing my skills by building real-world projects provided by <a href="https://www.frontendmentor.io/profile/kxnzx" target="_blank">Frontend Mentor</a>.
+Hello World! My name is Kenza, I'm a Lifelong Learner & Zen Warrior. I share my journey in self-taught front-end web development. I am currently practicing my skills by building real-world projects provided by <a href="https://www.frontendmentor.io/profile/kxnzx" target="_blank">Frontend Mentor</a>.
 
 ##
 ### Languages & Tools I use:
